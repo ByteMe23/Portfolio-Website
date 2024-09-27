@@ -11,6 +11,7 @@ Framer Motion
 Tailwind CSS
 
 🔋 Features
+
 👉 Hero: Captivating introduction featuring a spotlight effect and dynamic background.
 
 👉 Bento Grid: Modern layout presenting personal information using cutting-edge CSS design techniques.
