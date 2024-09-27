@@ -28,6 +28,8 @@ Tailwind CSS
 
 and many more, including code architecture and reusability
 
+🚀 Deployment link: https://portfolio-website-six-hazel-41.vercel.app/
+
 Installation
 
 Install the project dependencies using npm:
